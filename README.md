@@ -22,9 +22,9 @@ O objetivo é transformar dados brutos em **informações estratégicas**, ajuda
 
 ## 🛠️ Tecnologias Utilizadas
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" height="40" alt="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40" height="40" alt="Excel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Microsoft_Office_Excel_%282019–present%29.svg" width="40" height="40" alt="Excel"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.svg" width="40" height="40" alt="SQL"/>
 </p>
 
 - **Power BI**
