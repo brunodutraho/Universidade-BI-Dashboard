@@ -22,9 +22,20 @@ O objetivo é transformar dados brutos em **informações estratégicas**, ajuda
 
 ## 🛠️ Tecnologias Utilizadas
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Microsoft_Office_Excel_%282019–present%29.svg" width="40" height="40" alt="Excel"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.svg" width="40" height="40" alt="SQL"/>
+  <!-- Power BI -->
+  <svg width="40" height="40" viewBox="0 0 24 24" fill="#F2C811" xmlns="http://www.w3.org/2000/svg">
+    <rect x="3" y="10" width="2" height="8" rx="1"/><rect x="7" y="6" width="2" height="12" rx="1"/>
+    <rect x="11" y="8" width="2" height="10" rx="1"/><rect x="15" y="4" width="2" height="14" rx="1"/>
+  </svg>
+  <!-- Excel -->
+  <svg width="40" height="40" viewBox="0 0 24 24" fill="#21A366" xmlns="http://www.w3.org/2000/svg">
+    <rect x="3" y="4" width="18" height="16" rx="2"/><text x="8" y="16" font-size="10" fill="#fff">X</text>
+  </svg>
+  <!-- SQL (generic db) -->
+  <svg width="40" height="40" viewBox="0 0 24 24" fill="#336791" xmlns="http://www.w3.org/2000/svg">
+    <ellipse cx="12" cy="5" rx="7" ry="3"/><path d="M5 5v10c0 1.7 3.1 3 7 3s7-1.3 7-3V5" fill="#336791"/>
+    <ellipse cx="12" cy="15" rx="7" ry="3" fill="#29577A"/>
+  </svg>
 </p>
 
 - **Power BI**
